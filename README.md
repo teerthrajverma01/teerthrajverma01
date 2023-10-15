@@ -17,7 +17,7 @@
 🤝 I'm eager to work on projects that challenge me and provide continuous learning opportunities.   
 
 ##  🤝🏻 Connect with Me  
-* [`G-Mail`]( teerthrajverma181001@gmail.com)   
+* [`G-Mail`](mailto:teerthrajverma181001@gmail.com)   
 * [`GitHub`]( https://github.com/teerthrajverma01)   
 * [`LinkedIn`]( www.linkedin.com/in/teerthrajverma)   
 * [`Discord`]( discordapp.com/users/appu#3417)    
