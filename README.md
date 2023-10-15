@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello World!
+## 📝 About Me
+👋 I am Teerthraj Verma, a `MERN-Stack` Developer from India.  
+🎓 Graduated from TCET-Mumbai in Electronics Engineering (2023 Passout).
 
-<!--
-**teerthrajverma01/teerthrajverma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+  `Programming Languages`- C++, Python, Javascript  
+  `FrontEnd Development`- HTML, CSS, Javascript, React  
+  `Backend Development`- Nodejs   
+  `Backend as a Service`- Firebase   
+  `Database`- MySql, MongoDB  
+  `Version-Control`- Git, GitHub, CI-CD  
+  
+## 💼 What I'm Looking For:
+👀 I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions.  
+🤝 I'm eager to work on projects that challenge me and provide continuous learning opportunities.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🤝🏻 Connect with Me  
+* [`G-Mail`]( teerthrajverma181001@gmail.com)   
+* [`GitHub`]( https://github.com/teerthrajverma01)   
+* [`LinkedIn`]( www.linkedin.com/in/teerthrajverma)   
+* [`Discord`]( discordapp.com/users/appu#3417)    
+
+
+
+
+
