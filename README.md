@@ -9,8 +9,8 @@
   `FrontEnd Development`- HTML, CSS, Javascript, React  
   `Backend as a Service`- Firebase   
   `Version-Control`- Git, GitHub, CI-CD  
-  <!---`Backend Development`- Nodejs   -->
-  <!---`Database`- MySql, MongoDB --> 
+  `Backend Development`- Nodejs, Expressjs  
+  `Database`- MySql, MongoDB 
   
 ## 💼 What I'm Looking For:
 👀 _I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions._  
