@@ -9,7 +9,7 @@
   `FrontEnd Development`- HTML, CSS, Tailwind-CSS, Javascript, React, Redux, Nextjs   
   `Animation library`- GSAP  
   `Backend Development`- Nodejs, Expressjs, Nextjs  
-  `Database`- MySql, MongoDB 
+  `Database`- MySql, MongoDB   
   `Version-Control`- Git, GitHub, CI-CD  
   
 ## 💼 What I'm Looking For:
