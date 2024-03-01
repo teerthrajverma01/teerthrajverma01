@@ -8,9 +8,9 @@
   `Programming Languages`- Java, Javascript  
   `FrontEnd Development`- HTML, CSS, Tailwind-CSS, Javascript, React, Redux, Nextjs   
   `Animation library`- GSAP  
-  `Version-Control`- Git, GitHub, CI-CD  
   `Backend Development`- Nodejs, Expressjs, Nextjs  
   `Database`- MySql, MongoDB 
+  `Version-Control`- Git, GitHub, CI-CD  
   
 ## 💼 What I'm Looking For:
 👀 _I'm currently on the lookout for opportunities (Fulltime/Contract/Internship) in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions._  
