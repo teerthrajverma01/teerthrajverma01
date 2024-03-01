@@ -6,10 +6,9 @@
 
 ## 🛠 Tech Stack
   `Programming Languages`- C++, Python, Javascript  
-  `FrontEnd Development`- HTML, CSS, Javascript, React  
-  `Backend as a Service`- Firebase   
+  `FrontEnd Development`- HTML, CSS, Javascript, React, Redux, Nextjs    
   `Version-Control`- Git, GitHub, CI-CD  
-  `Backend Development`- Nodejs, Expressjs  
+  `Backend Development`- Nodejs, Expressjs, Nextjs  
   `Database`- MySql, MongoDB 
   
 ## 💼 What I'm Looking For:
