@@ -6,7 +6,7 @@
 
 ## 🛠 Tech Stack
   `Programming Languages`- Java, Javascript  
-  `FrontEnd Development`- HTML, CSS, Tailwind-CSS, Javascript, React, Redux, Nextjs 
+  `FrontEnd Development`- HTML, CSS, Tailwind-CSS, Javascript, React, Redux, Nextjs   
   `Animation library`- GSAP
   `Version-Control`- Git, GitHub, CI-CD  
   `Backend Development`- Nodejs, Expressjs, Nextjs  
