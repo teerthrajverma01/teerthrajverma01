@@ -18,8 +18,7 @@
 
 ##  🤝🏻 Connect with Me  
 * [`G-Mail`](mailto:teerthrajverma181001@gmail.com)    
-* [`LinkedIn`]( www.linkedin.com/in/teerthrajverma)   
-* [`Discord`]( discordapp.com/users/appu#3417)    
+* [`LinkedIn`](https://www.linkedin.com/in/teerthrajverma/) 
 
 
 
